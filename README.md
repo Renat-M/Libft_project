@@ -1,7 +1,7 @@
 # Libft_project
-My project in École 42. This project is about coding a C library. It contain a lot of general purpose functions.
+My project in École 42. This project is about coding a C library. It's contain a lot of general purpose functions.
 
-It's implementing the following original C functions:
+It implementing the following original C functions:
 
 • isalpha • isdigit • isalnum • isascii • isprint • strlen • memset • bzero • memcpy • memccpy • memmove • strlcpy
 • strlcat • toupper • tolower • strchr • strrchr • strncmp • memchr • memcmp • strnstr • atoi • calloc • strdup
