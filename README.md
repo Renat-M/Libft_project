@@ -1,5 +1,5 @@
 # Libft_project
-My project in École 42. This project is about coding a C library. It's contain a lot of general purpose functions.
+🏛 My project in École 42. This project is about coding a C library. It's contain a lot of general purpose functions.
 
 It implementing the following original C functions:
 
